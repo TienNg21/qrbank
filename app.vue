@@ -7,6 +7,6 @@
 </template>
 <style>
 body {
-  @apply bg-zinc-200;
+  @apply text-white;
 }
 </style>

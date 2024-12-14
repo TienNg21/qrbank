@@ -13,6 +13,8 @@
     "@nuxt/ui": "2.20.0",
     "@nuxtjs/tailwindcss": "6.12.2",
     "nuxt": "^3.14.1592",
+    "qr-code-styling": "^1.8.4",
+    "qrcode": "^1.5.4",
     "vietnam-qr-pay": "^1.4.0",
     "vue": "latest",
     "vue-router": "latest"
