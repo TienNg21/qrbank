@@ -98,7 +98,7 @@ const qrCodeContent = ref("");
           placeholder="Nhập số tài khoản"
         />
         <UInput v-model="amount" placeholder="Nhập số tiền" />
-        <UInput v-model="remark" placeholder="Nhập số nội dung" />
+        <UInput v-model="remark" placeholder="Nhập nội dung" />
         <UButton @click="generateQR" :disabled="!isEnableGenerateButton"
           >Generate</UButton
         >
